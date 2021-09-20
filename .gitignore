@@ -4,6 +4,7 @@ wandb/
 checkpoints/
 *.pt
 *.zip
+state_dicts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
