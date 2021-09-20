@@ -4,7 +4,7 @@ wandb/
 checkpoints/
 *.pt
 *.zip
-state_dicts/
+cifar10_models/state_dicts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
